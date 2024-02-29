@@ -1,1 +1,1 @@
-##Vegetation Cover Extraction
+## Vegetation Cover Extraction
